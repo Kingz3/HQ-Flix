@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12eb8dff.chunk.css",
+    "main.js": "/static/js/main.49990b20.chunk.js",
+    "main.js.map": "/static/js/main.49990b20.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e8868bbc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e8868bbc.js.map",
+    "static/css/2.9dbb8234.chunk.css": "/static/css/2.9dbb8234.chunk.css",
+    "static/js/2.9d28041e.chunk.js": "/static/js/2.9d28041e.chunk.js",
+    "static/js/2.9d28041e.chunk.js.map": "/static/js/2.9d28041e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e7b76f97f86b43da74d202c857618f7c.js": "/precache-manifest.e7b76f97f86b43da74d202c857618f7c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9dbb8234.chunk.css.map": "/static/css/2.9dbb8234.chunk.css.map",
+    "static/css/main.12eb8dff.chunk.css.map": "/static/css/main.12eb8dff.chunk.css.map",
+    "static/js/2.9d28041e.chunk.js.LICENSE.txt": "/static/js/2.9d28041e.chunk.js.LICENSE.txt",
+    "static/media/coming-soon-image.jpg": "/static/media/coming-soon-image.487bcc79.jpg",
+    "static/media/Layout.module.css": "/static/media/darkMovieBG.6ab60034.jpg",
+    "static/media/logo.png": "/static/media/logo.f1d7b76d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8868bbc.js",
+    "static/css/2.9dbb8234.chunk.css",
+    "static/js/2.9d28041e.chunk.js",
+    "static/css/main.12eb8dff.chunk.css",
+    "static/js/main.49990b20.chunk.js"
+  ]
+}
